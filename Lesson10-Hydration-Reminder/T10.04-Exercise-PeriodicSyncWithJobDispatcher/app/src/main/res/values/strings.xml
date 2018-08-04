@@ -2,8 +2,7 @@
     <string name="app_name">"Hydration Reminder"</string>
 
     <!-- Strings for the MainActivity -->
-    <string name="instructions">
-        Press the glass of water after you\'ve hydrated.</string>
+    <string name="instructions">Press the glass of water after you\'ve hydrated.</string>
     <string name="water_increment_content_desc">Press to record drinking water</string>
     <string name="charging_plug_content_desc">charging plug image</string>
 
